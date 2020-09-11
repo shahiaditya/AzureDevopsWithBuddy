@@ -15,7 +15,7 @@ namespace WebApplicationBuddy.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Adhitya and bhanu collab";
 
             return View();
         }
